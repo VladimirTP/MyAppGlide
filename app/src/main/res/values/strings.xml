@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAppGlide</string>
+    <string name="load_image">load image</string>
+    <string name="loadedImage">LoadedImage</string>
 </resources>
